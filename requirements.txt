@@ -9,3 +9,4 @@ ydata-profiling
 ipywidgets
 ipykernel
 plotly
+xgboost
